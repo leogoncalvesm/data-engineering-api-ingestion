@@ -1,4 +1,4 @@
-# Breweries API Ingestion Experiments
+# API Ingestion Experiments
 
 This is a mini Data Engineering project, exemplifying how an API ingestion could function, with data passing through usually implemented Data Lake layers: Bronze, Silver and Gold, with Airflow being used to orchestrate the jobs.
 
